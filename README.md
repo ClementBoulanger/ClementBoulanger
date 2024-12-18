@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clementboulanger&label=Profile%20views&color=0e75b6&style=flat" alt="clementboulanger" /> </p>
 
 
-- 🔭 I’m currently working at **RATPGroup**
+- 🔭 I’m currently looking for a **Job or an Internship**
 
 - 🌱 I’m currently learning **Java**
 
